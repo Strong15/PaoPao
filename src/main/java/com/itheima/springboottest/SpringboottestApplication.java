@@ -14,5 +14,6 @@ public class SpringboottestApplication {
 		SpringApplication.run(SpringboottestApplication.class, args);
 		System.out.println("你好");
 		System.out.println("你好2");
+		System.out.println("你好3");
 	}
 }
